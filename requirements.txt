@@ -1,0 +1,10 @@
+pyrogram>=2.0.106,<3
+TgCrypto>=1.2.5
+py-tgcalls>=2.2.11
+python-dotenv>=1.0.1
+pydantic>=2.8
+pydantic-settings>=2.3
+yt-dlp[default,curl-cffi]>=2026.7.15
+pytest>=8.2
+pytest-asyncio>=0.23
+ruff>=0.5
